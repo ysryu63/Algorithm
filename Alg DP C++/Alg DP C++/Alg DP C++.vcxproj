@@ -19,11 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{D1E7B2F8-B196-4EFB-95FA-D51FC7189C81}</ProjectGuid>
+    <ProjectGuid>{BD549E6D-35F5-4A16-8CF4-D5131EC38CE0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>ConsoleApplication1</RootNamespace>
+    <RootNamespace>AlgDPC</RootNamespace>
     <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
-    <ProjectName>Alg C++ DP</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -147,49 +146,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Coin.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Coin2(fail).cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Decrease way(fail).cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\fibo.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\fibo2.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Goldbach%27s conjecture.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Grape soju.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\LCS.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Number Triangle.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\padoban sequence.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\RGB Distance.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Sum of 2-dim matrix.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\The longest increasing partial sequence.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Up step.cpp">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
-    <ClCompile Include="Source.cpp" />
+    <ClCompile Include="Coin.cpp" />
+    <ClCompile Include="fibo.cpp" />
+    <ClCompile Include="fibo2.cpp" />
+    <ClCompile Include="Goldbach%27s conjecture.cpp" />
+    <ClCompile Include="Grape soju.cpp" />
+    <ClCompile Include="LCS.cpp" />
+    <ClCompile Include="Number Triangle.cpp" />
+    <ClCompile Include="Padoban Sequence.cpp" />
+    <ClCompile Include="RGB Distance.cpp" />
+    <ClCompile Include="Sum of 2-dim matrix.cpp" />
+    <ClCompile Include="The longest increasing partial sequence.cpp" />
+    <ClCompile Include="Up steps.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
