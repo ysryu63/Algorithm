@@ -14,4 +14,48 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Coin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Coin2(fail).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Decrease way(fail).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\fibo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\fibo2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Goldbach%27s conjecture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Grape soju.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\LCS.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Number Triangle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\padoban sequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\RGB Distance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Sum of 2-dim matrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\The longest increasing partial sequence.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\영승\Visual Studio 2015\Projects\alg C++ DP\alg C++\Up step.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
 </Project>
