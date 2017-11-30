@@ -15,28 +15,31 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Continuous Sum.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Escape in box.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Goldbach%27s conjecture.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Prime Factorization.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Sugar Deliver.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="Yaksu.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="1475 Room Number.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="1652 Registance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1912 Continuous Sum.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2839 Sugar Deliver.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1037 Yaksu.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1085 Escape in box.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
