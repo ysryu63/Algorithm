@@ -146,6 +146,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="1475 Room Number.cpp" />
+    <ClCompile Include="1652 Registance.cpp" />
     <ClCompile Include="Continuous Sum.cpp" />
     <ClCompile Include="Escape in box.cpp" />
     <ClCompile Include="Goldbach%27s conjecture.cpp" />

@@ -33,5 +33,11 @@
     <ClCompile Include="Yaksu.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1475 Room Number.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="1652 Registance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
